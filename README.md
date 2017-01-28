@@ -1,4 +1,7 @@
 # OSRS-Music-Search
+
+This program is actually C# not JS
+
 This is a program that searches the OSRS Music Map as given a while ago on r/2007scape
 Please do not change the shape of the window itself. The way I have the code set, it would not work properly if the window changes size.
 The map is taken from this address:  http://i.imgur.com/opmAfho.jpg
